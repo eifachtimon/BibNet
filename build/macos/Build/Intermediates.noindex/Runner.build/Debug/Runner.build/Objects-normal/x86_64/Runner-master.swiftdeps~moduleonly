@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "7085ed64f46015f3c5748732e6ec0e36"
+build_time: [1595965677, 86582000]
+inputs:
+  "/Users/timon/Desktop/Development/BibNet/macos/Runner/MainFlutterWindow.swift": !dirty [1576144285, 294688106]
+  "/Users/timon/Desktop/Development/BibNet/macos/Runner/AppDelegate.swift": !dirty [1576144285, 292264342]
+  "/Users/timon/Desktop/Development/BibNet/macos/Flutter/GeneratedPluginRegistrant.swift": !dirty [1595965658, 484706008]
